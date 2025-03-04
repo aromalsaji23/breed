@@ -1,0 +1,211 @@
+Breed,Animal Type,Average Lifespan (years),Size Category,Common Color,Temperament,Suitable for Apartment,Grooming Needs,Trainability
+Akita,Dog,12,Large,White,Independent,No,Medium,Moderate
+Alaskan Malamute,Dog,14,Large,Gray,Playful,No,High,Moderate
+Australian Shepherd,Dog,13,Medium,Blue Merle,Intelligent,Yes,Medium,Easy
+Beagle,Dog,15,Medium,Tri-color,Friendly,Yes,Low,Easy
+Border Collie,Dog,14,Medium,Black and White,Intelligent,Yes,High,Easy
+Basset Hound,Dog,12,Medium,Tricolor,Calm,Yes,Low,Moderate
+Boxer,Dog,10,Large,Fawn,Playful,No,Medium,Moderate
+Bulldog (English, French),Dog,10,Medium,Fawn,Friendly,Yes,Low,Moderate
+Cairn Terrier,Dog,12,Small,Gray,Spirited,Yes,Medium,Easy
+Chihuahua,Dog,15,Small,Fawn,Alert,Yes,Low,Easy
+Chow Chow,Dog,12,Large,Red,Independent,No,High,Moderate
+Cocker Spaniel,Dog,13,Medium,Golden,Affectionate,Yes,Medium,Moderate
+Dalmatian,Dog,12,Large,White with Black Spots,Active,No,Medium,Moderate
+Doberman Pinscher,Dog,10,Large,Black and Tan,Confident,No,Low,Easy
+German Shepherd,Dog,13,Large,Black and Tan,Intelligent,Yes,High,Easy
+Golden Retriever,Dog,12,Large,Golden,Friendly,Yes,Medium,Easy
+Great Dane,Dog,7,Large,Merle,Friendly,No,Low,Moderate
+Greyhound,Dog,10,Large,Brindle,Affectionate,Yes,Low,Easy
+Havanese,Dog,14,Small,White,Friendly,Yes,Medium,Moderate
+Husky (Siberian),Dog,12,Large,Gray,Playful,No,High,Moderate
+Irish Setter,Dog,12,Large,Red,Affectionate,Yes,Medium,Easy
+Jack Russell Terrier,Dog,13,Small,White with Tan,Active,Yes,Low,Easy
+King Charles Spaniel,Dog,12,Small,Blenheim,Affectionate,Yes,High,Moderate
+Labrador Retriever,Dog,12,Large,Yellow,Friendly,Yes,Medium,Easy
+Maltese,Dog,15,Small,White,Playful,Yes,High,Easy
+Miniature Schnauzer,Dog,12,Small,Silver,Spirited,Yes,Medium,Easy
+Newfoundland,Dog,9,Large,Black,Calm,No,High,Moderate
+Poodle (Standard, Miniature, Toy),Dog,12,Small/Medium/Standard,White,Intelligent,Yes,High,Easy
+Pug,Dog,13,Small,Fawn,Playful,Yes,Low,Easy
+Rottweiler,Dog,10,Large,Black,Confident,No,Medium,Moderate
+Saint Bernard,Dog,8,Large,Tricolor,Affectionate,No,High,Moderate
+Samoyed,Dog,12,Large,White,Playful,No,High,Moderate
+Shih Tzu,Dog,14,Small,Gold,Affectionate,Yes,Medium,Moderate
+Siberian Husky,Dog,12,Large,Gray,Playful,No,High,Moderate
+Staffordshire Bull Terrier,Dog,12,Medium,Blue,Friendly,Yes,Low,Easy
+Yorkshire Terrier,Dog,15,Small,Blue and Tan,Affectionate,Yes,High,Easy
+Breed,Animal Type,Average Lifespan (years),Size Category,Common Color,Temperament,Suitable for Apartment,Grooming Needs,Trainability
+Abyssinian,Cat,14,Medium,Red,Active,Yes,Medium,Moderate
+American Bobtail,Cat,13,Medium,Tabby,Playful,Yes,Low,Moderate
+American Curl,Cat,13,Medium,Black,Affectionate,Yes,Medium,Easy
+American Shorthair,Cat,15,Medium,Silver Tabby,Friendly,Yes,Low,Easy
+Balinese,Cat,15,Medium,Blue Point,Affectionate,Yes,High,Moderate
+Bengal,Cat,16,Large,Spotted,Active,No,High,Moderate
+Birman,Cat,16,Medium,Seal Point,Affectionate,Yes,Medium,Moderate
+British Shorthair,Cat,14,Medium,Blue,Friendly,Yes,Low,Easy
+Burmese,Cat,16,Medium,Sable,Affectionate,Yes,Low,Easy
+Cornish Rex,Cat,14,Medium,White,Playful,Yes,High,Moderate
+Devon Rex,Cat,14,Small,Gray,Playful,Yes,Medium,Easy
+Egyptian Mau,Cat,14,Medium,Silver Spotted,Active,Yes,Medium,Moderate
+Exotic Shorthair,Cat,14,Medium,Silver Tabby,Calm,Yes,Medium,Easy
+Himalayan,Cat,15,Medium,Blue Point,Calm,No,High,Moderate
+Japanese Bobtail,Cat,16,Medium,White,Playful,Yes,Medium,Easy
+Maine Coon,Cat,13,Large,Black,Playful,Yes,High,Easy
+Manx,Cat,12,Medium,Gray,Affectionate,Yes,Low,Moderate
+Norwegian Forest Cat,Cat,16,Large,Tabby,Playful,No,High,Moderate
+Persian,Cat,15,Medium,White,Calm,No,High,Moderate
+Ragdoll,Cat,15,Large,Blue,Affectionate,Yes,Medium,Easy
+Russian Blue,Cat,15,Medium,Blue,Calm,Yes,Low,Moderate
+Scottish Fold,Cat,14,Medium,Gray,Affectionate,Yes,Medium,Easy
+Siamese,Cat,20,Small,Seal Point,Talkative,Yes,Medium,Easy
+Sphynx,Cat,14,Medium,Pink,Affectionate,Yes,High,Easy
+Somali,Cat,12,Medium,Red,Active,Yes,Medium,Moderate
+Turkish Angora,Cat,15,Medium,White,Playful,Yes,Medium,Easy
+Turkish Van,Cat,14,Large,White and Tan,Active,No,Medium,Moderate
+Bengal,Cat,16,Large,Spotted,Active,No,High,Moderate
+LaPerm,Cat,15,Medium,Curly,Affectionate,Yes,Medium,Easy
+Singapura,Cat,12,Small,Sable,Playful,Yes,Low,Moderate
+Breed,Animal Type,Average Lifespan (years),Size Category,Common Color,Temperament,Suitable for Apartment,Grooming Needs,Trainability
+African Grey Parrot,Bird,50,Medium,Gray,Intelligent,Yes,Medium,Easy
+American Robin,Bird,2,Medium,Red,Social,Yes,Low,Moderate
+Blue Jay,Bird,7,Medium,Blue,Playful,Yes,Low,Moderate
+Budgerigar (Budgie),Bird,10,Small,Green,Friendly,Yes,Low,Easy
+Canary,Bird,15,Small,Yellow,Cheerful,Yes,Low,Moderate
+Cockatiel,Bird,7,Small,Gray,Playful,Yes,Medium,Moderate
+Cockatoo,Bird,40,Large,White,Affectionate,No,High,Moderate
+Common Raven,Bird,15,Large,Black,Intelligent,No,Low,Easy
+Condor (Andean and California),Bird,60,Large,Black and White,Majestic,No,Low,Difficult
+Conure,Bird,20,Small,Green,Playful,Yes,Low,Moderate
+Crows,Bird,10,Medium,Black,Intelligent,No,Low,Moderate
+Diamond Dove,Bird,15,Small,Gray,Calm,Yes,Low,Easy
+Eagle (Bald, Golden),Bird,20,Large,Golden,Majestic,No,Low,Moderate
+Flamingo,Bird,20,Large,Pink,Graceful,No,Medium,Difficult
+Gouldian Finch,Bird,6,Small,Colorful,Social,Yes,Low,Moderate
+Harpy Eagle,Bird,35,Large,Gray and Black,Majestic,No,Low,Difficult
+Hummingbird,Bird,5,Small,Various,Delicate,Yes,Low,Difficult
+Kingfisher,Bird,10,Small,Blue,Alert,Yes,Low,Moderate
+Lovebird,Bird,15,Small,Green,Affectionate,Yes,Low,Easy
+Macaw,Bird,50,Large,Multicolor,Playful,No,High,Moderate
+Magpie,Bird,15,Medium,Black and White,Curious,Yes,Low,Moderate
+Nightingale,Bird,5,Small,Brown,Melodic,Yes,Low,Moderate
+Ostrich,Bird,40,Large,Gray,Curious,No,Low,Difficult
+Parakeet,Bird,15,Small,Green,Friendly,Yes,Low,Easy
+Parrot (various species),Bird,50,Medium,Various,Talkative,Yes,Medium,Moderate
+Peacock,Bird,15,Large,Blue and Green,Majestic,No,Medium,Moderate
+Pigeon,Bird,10,Medium,Gray,Social,Yes,Low,Moderate
+Seagull,Bird,20,Large,White,Adaptable,No,Low,Moderate
+Snowy Owl,Bird,10,Large,White,Mysterious,No,Low,Difficult
+Sparrow,Bird,3,Small,Brown,Social,Yes,Low,Moderate
+Starlings,Bird,20,Medium,Black,Social,Yes,Low,Moderate
+Swallow,Bird,6,Small,Blue,Graceful,Yes,Low,Moderate
+Turkey,Bird,10,Large,Brown,Curious,No,Low,Difficult
+Vulture,Bird,20,Large,Black and White,Majestic,No,Low,Difficult
+Woodpecker,Bird,15,Medium,Red,Alert,Yes,Low,Moderate
+Breed,Animal Type,Average Lifespan (years),Size Category,Common Color,Temperament,Suitable for Apartment,Grooming Needs,Trainability
+Arabian Horse,Horse,25,Medium,Gray,Intelligent,No,Medium,Easy
+Thoroughbred,Horse,30,Large,Bay,Strong,No,Medium,Moderate
+Clydesdale,Horse,20,Large,Chestnut,Gentle,No,High,Moderate
+Quarter Horse,Horse,25,Medium,Bay,Calm,No,Low,Easy
+Standardbred,Horse,25,Medium,Chestnut,Calm,No,Medium,Easy
+Saddlebred,Horse,25,Medium,Chestnut,Friendly,No,Medium,Moderate
+Tennessee Walking Horse,Horse,30,Medium,Black,Friendly,No,Medium,Easy
+Belgian,Horse,20,Large,Chestnut,Calm,No,High,Moderate
+Andalusian,Horse,25,Medium,Gray,Energetic,No,Medium,Moderate
+Mustang,Horse,20,Medium,Various,Wild,No,Low,Difficult
+Appaloosa,Horse,25,Medium,Spotted,Calm,No,Low,Easy
+Friesian,Horse,20,Large,Black,Majestic,No,High,Moderate
+Hanoverian,Horse,20,Large,Chestnut,Trainable,No,Medium,Moderate
+Paint Horse,Horse,25,Medium,Spotted,Friendly,No,Low,Easy
+Percheron,Horse,25,Large,Gray,Gentle,No,High,Moderate
+Morgan Horse,Horse,30,Medium,Bay,Smart,No,Medium,Easy
+Shire,Horse,25,Large,Chestnut,Calm,No,High,Moderate
+Paso Fino,Horse,25,Medium,Gray,Graceful,No,Low,Easy
+Draft Horse,Horse,30,Large,Various,Strong,No,High,Moderate
+Warmblood,Horse,25,Large,Various,Trainable,No,Medium,Moderate
+Hackney Horse,Horse,20,Medium,Chestnut,Alert,No,Medium,Moderate
+Irish Draught,Horse,20,Medium,Chestnut,Calm,No,Medium,Moderate
+Lippizaner,Horse,30,Medium,Gray,Energetic,No,High,Moderate
+Norwegian Fjord,Horse,25,Medium,Gray,Calm,No,Medium,Moderate
+Miniature Horse,Horse,25,Small,Various,Friendly,Yes,Low,Easy
+Shetland Pony,Horse,20,Small,Black,Affectionate,Yes,Low,Easy
+Exmoor Pony,Horse,20,Small,Brown,Calm,Yes,Low,Moderate
+Connemara Pony,Horse,25,Small,Gray,Agile,Yes,Low,Easy
+Rheinlander,Horse,20,Medium,Chestnut,Trainable,No,Medium,Moderate
+Bashkir Curly,Horse,20,Medium,Curly,Calm,No,High,Moderate
+Breed,Animal Type,Average Lifespan (years),Size Category,Common Color,Temperament,Suitable for Apartment,Grooming Needs,Trainability
+Holstein,Cow,15,Large,Black and White,Friendly,No,Medium,Easy
+Jersey,Cow,15,Medium,Brown,Docile,No,Low,Easy
+Guernsey,Cow,15,Medium,Red and White,Calm,No,Medium,Moderate
+Ayrshire,Cow,15,Medium,Red and White,Friendly,No,Medium,Moderate
+Brown Swiss,Cow,18,Large,Brown,Calm,No,Medium,Moderate
+Milking Shorthorn,Cow,15,Medium,Red,White, or Roan,Friendly,No,Medium,Moderate
+Dexter,Cow,15,Small,Black,Red, or Dun,Calm,Yes,Low,Easy
+Red Poll,Cow,15,Medium,Red or White,Calm,No,Low,Easy
+British Friesian,Cow,15,Large,Black and White,Friendly,No,High,Moderate
+Normande,Cow,15,Medium,Red and White,Docile,No,Medium,Moderate
+Breed,Animal Type,Average Lifespan (years),Size Category,Common Color,Temperament,Suitable for Apartment,Grooming Needs,Trainability
+Angus,Cow,15,Medium,Black,Friendly,No,Low,Easy
+Hereford,Cow,15,Medium,Red and White,Calm,No,Low,Easy
+Charolais,Cow,15,Large,White or Cream,Docile,No,Medium,Moderate
+Simmental,Cow,15,Large,Gold and White,Docile,No,Medium,Moderate
+Limousin,Cow,15,Medium,Gold to Red,Friendly,No,Medium,Moderate
+Shorthorn (Beef),Cow,15,Medium,Red,White, or Roan,Friendly,No,Medium,Moderate
+Brahman,Cow,20,Large,Gray or Red,Calm,No,Medium,Moderate
+Devon,Cow,15,Medium,Red,Friendly,No,Low,Moderate
+Wagyu,Cow,20,Medium,Black,Docile,No,Medium,Moderate
+Salers,Cow,15,Medium,Red,Docile,No,Medium,Moderate
+Breed,Animal Type,Average Lifespan (years),Size Category,Common Color,Temperament,Suitable for Apartment,Grooming Needs,Trainability
+Zebu (Humped cattle),Cow,15,Medium,Gray or White,Calm,No,Low,Easy
+Scottish Highland,Cow,20,Medium,Red,Black, or Yellow,Friendly,No,Low,Moderate
+Belted Galloway,Cow,15,Medium,Black with White Belt,Docile,No,Medium,Moderate
+Hereford (dual-purpose),Cow,15,Medium,Red and White,Calm,No,Low,Easy
+Kerry (a rare breed),Cow,18,Small,Black,Friendly,No,Low,Moderate
+Murray Grey,Cow,15,Medium,Gray,Friendly,No,Low,Moderate
+Breed,Animal Type,Average Lifespan (years),Size Category,Common Color,Temperament,Suitable for Apartment,Grooming Needs,Trainability
+Standard Rat,Small Animal,2,Small,Various,Friendly,Yes,Low,Easy
+Dumbo Rat,Small Animal,2,Small,Various,Friendly,Yes,Low,Moderate
+Top-Eared Rat,Small Animal,2,Small,Various,Friendly,Yes,Low,Easy
+Hairless Rat,Small Animal,2,Small,Pink or Light,Friendly,Yes,High,Easy
+Rex Rat,Small Animal,2,Small,Various,Friendly,Yes,Medium,Moderate
+Manx Rat,Small Animal,2,Small,Various,Friendly,Yes,Low,Moderate
+Siamese Rat,Small Animal,2,Small,Light body with darker points,Calm,Yes,Low,Moderate
+Himalayan Rat,Small Animal,2,Small,Light body with dark points,Calm,Yes,Low,Moderate
+Hooded Rat,Small Animal,2,Small,Dark body with lighter "hood",Friendly,Yes,Low,Easy
+Berger Rat,Small Animal,2,Small,Dark body with "saddle" pattern,Friendly,Yes,Low,Easy
+Fawn Rat,Small Animal,2,Small,Golden-brown,Friendly,Yes,Low,Moderate
+Black Rat,Small Animal,2,Small,Black,Friendly,Yes,Low,Easy
+Capped Rat,Small Animal,2,Small,Various,Friendly,Yes,Low,Easy
+Breed,Animal Type,Average Lifespan (years),Size Category,Common Color,Temperament,Suitable for Apartment,Grooming Needs,Trainability
+Himalayan Rabbit,Small Animal,5,Small,White with dark points (ears, nose, paws),Calm,Yes,Medium,Moderate
+Mini Rex,Small Animal,6,Small,Various,Calm,Yes,Low,Easy
+Netherland Dwarf,Small Animal,8,Small,Various,Friendly,Yes,Low,Easy
+Holland Lop,Small Animal,7,Small,Various,AFFectionate,Yes,Medium,Moderate
+English Angora,Small Animal,12,Small,Various,Gentle,Yes,High,Moderate
+Mini Lop,Small Animal,8,Small,Various,Friendly,Yes,Medium,Moderate
+French Lop,Small Animal,8,Large,Various,Gentle,No,Medium,Moderate
+Flemish Giant,Small Animal,10,Large,Various,Docile,No,Low,Easy
+Lionhead Rabbit,Small Animal,7,Small,Various,Affectionate,Yes,High,Moderate
+English Spot,Small Animal,6,Medium,White with spots,Friendly,Yes,Medium,Easy
+Breed,Animal Type,Average Lifespan (years),Size Category,Common Color,Temperament,Suitable for Apartment,Grooming Needs,Trainability
+Betta Fish,Fish,3-5,Small,Various colors (Red, Blue, Yellow),Aggressive,Yes,Low,Low
+Goldfish,Fish,10-15,Medium,Orange,Calm,Yes,Low,Low
+Guppies,Fish,2-3,Small,Various colors (Yellow, Blue, Green),Friendly,Yes,Low,Easy
+Neon Tetras,Fish,5,Small,Blue and Red,Peaceful,Yes,Low,Easy
+Angelfish,Fish,10,Medium,Silver with black stripes,Peaceful,Yes,Medium,Moderate
+Cichlids,Fish,5-10,Medium,Various colors,Varies (peaceful to aggressive),Yes,Low,Moderate
+Zebra Danios,Fish,5,Small,Striped (Blue and Silver),Peaceful,Yes,Low,Easy
+Molly Fish,Fish,3-5,Small,Black, White, or Silver,Peaceful,Yes,Low,Easy
+Platies,Fish,3-5,Small,Various colors (Red, Blue, Yellow),Friendly,Yes,Low,Easy
+Discus Fish,Fish,10,Medium,Various colors (Blue, Green, Red),Calm,Yes,High,Moderate
+Breed,Animal Type,Average Lifespan (years),Size Category,Common Color,Temperament,Suitable for Apartment,Grooming Needs,Trainability
+Clownfish,Fish,6-10,Small,Orange and White,Peaceful,Yes,Low,Easy
+Tang Fish,Fish,10-15,Medium,Yellow, Blue, Peaceful,Yes,Medium,Moderate
+Damselfish,Fish,5-10,Small,Blue,Yellow, Aggressive,Yes,Low,Moderate
+Butterflyfish,Fish,10,Medium,Yellow and White,Peaceful,Yes,High,Moderate
+Surgeonfish,Fish,10-15,Medium,Blue,Yellow, Peaceful,Yes,Medium,Moderate
+Wrasses,Fish,5-7,Small,Various colors,Peaceful,Yes,Medium,Moderate
+Gobies,Fish,5,Small,Various colors,Peaceful,Yes,Low,Moderate
+Angelfish (Saltwater),Fish,10,Medium,Varies (Blue, Yellow, Red),Peaceful,Yes,High,Moderate
+Triggerfish,Fish,10,Medium,Various colors (Blue, Yellow, Orange),Aggressive,Yes,Low,Moderate
+Lionfish,Fish,10,Medium,Striped (Red, White),Aggressive,Yes,Low,Low
